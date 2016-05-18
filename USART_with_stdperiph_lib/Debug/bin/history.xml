@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -Map=USART_with_stdperiph_lib.map -O0 --gc-sections -LC:/Users/Hwa-Neng/CoIDE/workspace/USART_with_stdperiph_lib -TC:\Users\Hwa-Neng\CoIDE\workspace\USART_with_stdperiph_lib\STM32F103C8_FLASH.ld -g">
+      <target file="USART_with_stdperiph_lib.elf" lastModified="154c4d5fbfb">
+         <source file="..\obj\stm32f10x_usart.o" lastModified="154c34cf976"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="154c311c373"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="154c311c2db"/>
+         <source file="..\obj\syscalls.o" lastModified="154c30f5ffe"/>
+         <source file="..\obj\startup_stm32f103xb.o" lastModified="154c30f5ee9"/>
+         <source file="..\obj\system_stm32f1xx.o" lastModified="154c311c228"/>
+         <source file="..\obj\main.o" lastModified="154c4d5f9e5"/>
+      </target>
+   </processor>
+</history>
